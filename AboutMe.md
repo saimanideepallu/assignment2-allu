@@ -28,3 +28,8 @@ Image:
  | Los Angeles | 4| 500USD |
  
  ---
+
+  ## TWO QUOTES
+
+ > A book is a gift you can open Again and Again --*Garrison Keillor*. <br>
+ > Be the change that you wish to see in the world --*Mahatma Gandhi*
