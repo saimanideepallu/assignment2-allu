@@ -27,6 +27,11 @@ Image:
  | Miami| 12 | 3000USD |
  | Los Angeles | 4| 500USD |
  
+
+ ![Las Vegas](images/LA.jpg)
+ ![NewYork City](images/nyc.jpg)
+ ![Miami](images/Mia.jpg)
+ ![Los Angeles](images/ls.jpg)
  ---
 
   ## TWO QUOTES
