@@ -33,3 +33,35 @@ Image:
 
  > A book is a gift you can open Again and Again --*Garrison Keillor*. <br>
  > Be the change that you wish to see in the world --*Mahatma Gandhi*
+
+ ---
+
+ # Code Fencing
+
+ >Objective-C : Objective-C is a general purpose programming language that adds smalltalk style messaging to the C programming Language.
+ Quick link to source : <https://en.wikipedia.org/wiki/Objective-C>
+
+```
+ #import <objc/Object.h>
+
+@interface Forwarder : Object {
+  id recipient; // The object we want to forward the message to.
+}
+
+// Accessor methods.
+- (id)recipient;
+- (id)setRecipient:(id)_recipient;
+@end
+```
+<https://en.wikipedia.org/wiki/Objective-C#Example>
+
+
+ 
+
+
+
+
+
+
+
+
